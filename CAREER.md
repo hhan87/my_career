@@ -19,3 +19,11 @@
 ### Kotra FIW 2017 행사앱
 
 ### LAONIA 예약앱
+
+## FREELANCER
+
+### Kotra FIW 2018 행사앱
+
+### VAKA-피학의노엘 해외판 기술지원
+
+### VAKA-RPG쯔꾸르 플러그인개발
